@@ -1,0 +1,29 @@
+{
+  "name": "react-native-app-intro",
+  "version": "0.0.1",
+  "description": "Simple and configurable app introduction slider for react native app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bluebird2000/react-native-app-intro.git"
+  },
+  "keywords": [
+    "swiper",
+    "App",
+    "Intro",
+    "ios",
+    "android",
+    "react-component",
+    "react-native",
+    "slider"
+  ],
+  "author": "Bluebird2000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bluebird2000/react-native-app-intro/issues"
+  },
+  "homepage": "https://github.com/Bluebird2000/react-native-app-intro#readme"
+}
